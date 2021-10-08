@@ -1,0 +1,26 @@
+how can we find out how much coffee costs using google
+how can we find a user's location 
+how can we calculate how often you need to buy coffee to be considered a regular
+how can we encourage people to drink more coffee
+how can we build a website
+how can we encourage people to be more social
+how can we make people think about how much coffee costs
+how can we connect a service to google maps
+hwo can we compare the costs of different coffee shops
+how can we find the best vibe for the user
+how can we make the user think about how computers work
+how can we influence coffee shop music based on people looking to buy coffee
+how can we find out if this is going to be time well spent
+how can we find the best way to add coffee shops to our service 
+how can we evaluate cost by considering vibe of shop
+how can we help users add their favorite shops' menu
+how can we manually add data to this service
+how can we use python to do math
+how can we use python to connect to the internet 
+how can we use our brains to think about this problem
+how can we help people meet baristas
+how can we help baristas connect to people
+how can we calculate with floats
+how can we store coffee shop information
+how can we add more information if we want
+
