@@ -1,3 +1,5 @@
-Example Shop, 1
-Railway Coffee (Park), 3
-Railway Coffee (Nest), 3.50
+shop name,price,city,state,zip
+Railway Coffee (Park),3,Ruston,LA,72170
+Railway Coffee (Nest),3.5,Ruston,LA,72170
+Parish Press,4.5,Ruston,LA,72170
+Magpie Coffee,5,Baton Rouge,LA,70816
