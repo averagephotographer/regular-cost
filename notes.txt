@@ -1,0 +1,7 @@
+use grubhub api because they have price info?
+maybe other food-oriented services have apis
+-doordash
+-grubhub
+
+
+Parseur -> get information from emails
